@@ -1,0 +1,389 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>The Irish-evidence convicted by their own oaths, or, Their swearing and counter-swearing plainly demonstrated in several of their own affidavits herewith faithfully published as also a full and impartial account of their past &amp; present practices.</title>
+            <author>Hetherington, William.</author>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1682</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 60 KB of XML-encoded text transcribed from 10 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2012-10">2012-10 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A70215</idno>
+            <idno type="STC">Wing H1626</idno>
+            <idno type="STC">ESTC R10355</idno>
+            <idno type="EEBO-CITATION">11829275</idno>
+            <idno type="OCLC">ocm 11829275</idno>
+            <idno type="VID">49714</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A70215)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 49714)</note>
+            <note>Images scanned from microfilm: (Early English books, 1641-1700 ; 459:3 or 496:19)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>The Irish-evidence convicted by their own oaths, or, Their swearing and counter-swearing plainly demonstrated in several of their own affidavits herewith faithfully published as also a full and impartial account of their past &amp; present practices.</title>
+                  <author>Hetherington, William.</author>
+               </titleStmt>
+               <extent>15 p.   </extent>
+               <publicationStmt>
+                  <publisher>Printed for William Inghal the Elder,</publisher>
+                  <pubPlace>London :</pubPlace>
+                  <date>1682.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Attributed to William Hetherington. Cf. NUC pre-1956.</note>
+                  <note>Item at reel 459:3 identified as Wing I1038 (number cancelled).</note>
+                  <note>Reproduction of original in the Henry E. Huntington Library and Art Gallery.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Popish Plot, 1678.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2008-09</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2008-11</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2011-10</date>
+            <label>Mona Logarbo</label>Sampled and proofread</change>
+         <change>
+            <date>2011-10</date>
+            <label>Mona Logarbo</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2012-05</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="title_page">
+            <pb facs="tcp:49714:1"/>
+            <pb facs="tcp:49714:1" rendition="simple:additions"/>
+            <p>
+               <hi>The Iriſh-Evidence</hi> Convicted by their Own OATHS: OR, THEIR SWEARING AND Counter-Swearing Plainly Demonſtrated In Several of Their Own AFFIDAVITS, Herewith faithfully Publiſhed.</p>
+            <p>AS ALSO, A Full and Impartial ACCOUNT OF THEIR Paſt &amp; Preſent Practices.</p>
+            <p>
+               <hi>LONDON:</hi> Printed for <hi>William Inghal</hi> the Elder. 1682.</p>
+         </div>
+      </front>
+      <body>
+         <div type="text">
+            <pb facs="tcp:49714:2"/>
+            <pb n="3" facs="tcp:49714:2"/>
+            <head>The Iriſh-Evidence CONVICTED By their own OATHS.</head>
+            <p>
+               <seg rend="decorInit">I</seg> Doubt not but the <hi>whole Nation</hi> is by this time ſufficiently Alarm'd with the noiſe of the <hi>Iriſh Witneſſes,</hi> and their <hi>Notorious Adven<g ref="char:EOLhyphen"/>tures,</hi> their <hi>Swearing, Counter-ſwearing, Quarrels</hi> amongſt them<g ref="char:EOLhyphen"/>ſelves, <hi>Suborning,</hi> and being <hi>Suborn'd,</hi> Endeavours to <hi>drop</hi> the Popiſh Plot, and <hi>Sham</hi> another upon Proteſtants, <hi>&amp;c.</hi> are be<g ref="char:EOLhyphen"/>come the Common themes of every Table-talk, and the Sub<g ref="char:EOLhyphen"/>ject matter of <hi>Play-Houſe Drolls.</hi>
+            </p>
+            <p>But the Methods <hi>how,</hi> the perſons <hi>by whom,</hi> and the <hi>Ends for which</hi> they were turn'd <hi>Renegado's,</hi> and brought to debauch their Conſciences to ſuch an unparallel'd degree, are things perhaps not ſo Generally <hi>known,</hi> or taken <hi>notice</hi> of.</p>
+            <p>Nor ſhall I (though I have more Reaſon than <hi>moſt</hi> Private Perſons to Inſpect thoſe Affairs) undertake fully to ſatisfie in all thoſe Particulars, only ſhall here preſent the publick with a few <hi>Remarques</hi> and <hi>true Copies</hi> of ſome of their own Depoſitions, which will afford us not a little Light therein; for he muſt be extreamly <hi>dull,</hi> that by thoſe four <hi>Grapes</hi> cannot Judg of the whole <hi>Vintage.</hi>
+            </p>
+            <p n="1">1. It appears by <hi>Coleman</hi>'s <hi>Letters,</hi> and all the <hi>Evidence</hi> of the Popiſh Plot, that the ſame was a <hi>General Conſpiracy</hi> to Subvert and Root out the Proteſtant Religion, not on<g ref="char:EOLhyphen"/>ly in <hi>England,</hi> but likewiſe in the reſt of his Majeſties Dominions, and indeed through<g ref="char:EOLhyphen"/>out the World. Whence it cannot in Reaſon be imagin'd, they would neglect to carry on the ſame in <hi>Ireland;</hi> a Kingdom where the over-ballance of Papiſts, the open undi<g ref="char:EOLhyphen"/>ſturb'd Reſidence of <hi>Popiſh Biſhops and Prieſts,</hi> the natural <hi>Antipathy</hi> and <hi>Malice</hi> in the Natives towards the <hi>Engliſh</hi> (as well on the account of Religion, as for enjoying ſeveral of their Lands) and many other Reaſons, afforded ſuch apt fewel for that <hi>Combuſtion.</hi> On the other ſide, 'tis moſt probable, that the <hi>French,</hi> as well to embroil our Affairs, and promote <hi>Popery,</hi> as more eſpecially in hopes of gaining, at long Run, the Poſſeſſion and Government of ſo Important a Kingdom into their own Hands, might be forward enough in offering them <hi>Aſſiſtance,</hi> as they did to the Rebels of <hi>Meſſina</hi> in <hi>Sicily,</hi> when lately they Revolted from their Soveraign the King of <hi>Spain.</hi>
+            </p>
+            <p n="2">2. The Plot in <hi>England</hi> being Diſcovered, and the Proſecution vigorouſly carried on againſt the Traytors, and ſome of them <hi>Executed,</hi> 'tis no wonder, if <hi>Conſcious Guilt,</hi> and <hi>Fear,</hi> (a very powerful motive with an <hi>Iriſh</hi> man, and which has abundance more Influence on them than true Remorſe of <hi>Conſcience,</hi> or Kindneſs to the <hi>Engliſh</hi>) might prevail with ſome of the Conſpirators to Diſcover what they knew; and indeed their Informations were ſo Coherent, and Backt with ſuch pregnant Circumſtances, that both His <hi>Majeſty</hi> and the <hi>Parliament</hi> declared themſelves ſatisfied, There was ſuch <hi>a Bloody and Traiterous deſign on foot in that Kingdom,</hi> and accordingly <hi>Plunket</hi> the Titular Pri<g ref="char:EOLhyphen"/>mate, on the Teſtimony of ſome of theſe Evidence, and his <hi>own Papers,</hi> was Condemn'd and Executed.</p>
+            <p n="3">3. But the Popiſh Party taking <hi>Boldneſs</hi> from the <hi>Diſſolutions</hi> of Parliaments, whereby the Proſecution againſt them, was not ſo vigorouſly carried on, or at leaſt retarded, and perceiving the <hi>Poverty</hi> of theſe Witneſſes, who had a very little to ſubſiſt on, but
+<pb n="4" facs="tcp:49714:3"/> the <hi>meer Charity</hi> of well diſpoſed Proteſtants, reſolv'd to try if they could <hi>take them off,</hi> and prevail with them by <hi>Bribes</hi> and <hi>Hopes</hi> to decline their former Evidence, and lay <hi>the Plot</hi> at the Proteſtants doors.</p>
+            <p>This they foreſaw would be a <hi>two-edg'd</hi> Strategem; for if they ſucceeded, and could get theſe Witneſſes to be <hi>believ'd</hi> as to the Proteſtant Plot, then they ſhould Infallibly deſtroy many of their Enemies and moſt <hi>zealous Proſecutors,</hi> as the Earl of <hi>Shaftsbury,</hi> &amp;c. or if the <hi>Sham</hi> were Diſcovered, and the Witneſſes Trapp'd in their Stories, yet howe<g ref="char:EOLhyphen"/>ver it would ſpoil their <hi>Credit,</hi> and render their Teſtimony ſo ſuſpected as to be Invalid againſt any of the <hi>Popiſh Traytors,</hi> and ſo either <hi>way</hi> not fail of doing their Party a moſt Effectual Service.</p>
+            <p>Nor had they reaſon to <hi>deſpair</hi> of prevailing with theſe fellows, for though <hi>ſome</hi> of them (not all) did now call themſelves <hi>Proteſtants,</hi> yet even thoſe pretended Converts remain'd <hi>Papiſts</hi> in their Hearts, or at leaſt were ſtill <hi>Iriſh</hi> men, that is, implacable Ene<g ref="char:EOLhyphen"/>mies to the <hi>Engliſh.</hi> And as <hi>fear of a Rope</hi> firſt brought them to Diſcover, ſo now theſe fears beginning to leſſen, and <hi>new fears</hi> ariſe, that they ſhould ſuffer for <hi>Diſcovery;</hi> Therefore, the only way whereby they could hope for reconciliation to their <hi>Countrey<g ref="char:EOLhyphen"/>men,</hi> and <hi>Pardon</hi> and <hi>Abſolution</hi> from their <hi>Church,</hi> was to be Inſtrumental in Sacrifi<g ref="char:EOLhyphen"/>cing the <hi>Lives</hi> of as many Proteſtants as they could to her Intereſt, as a Peace-Offering. Add hereunto their wretched <hi>Poverty,</hi> which not only rendred them <hi>deſperate,</hi> but that <hi>very ſmall Relief</hi> which they had received from Proteſtonts, gave them greater oppor<g ref="char:EOLhyphen"/>tunities to colour ſuch a <hi>Sham-Plot,</hi> and ſwear againſt their Charitable Innocent Benefa<g ref="char:EOLhyphen"/>ctors.</p>
+            <p n="4">4. In order therefore to this, they firſt <hi>tamper</hi> with and prevail upon <hi>David Fitz-Ge<g ref="char:EOLhyphen"/>rald,</hi> and make uſe of him as <hi>a Decoy</hi> to wheadle in the reſt, concerning which <hi>Worſhipful Tool,</hi> it will be neceſſary to give a brief Account. His <hi>Pedigree</hi> is very ſuitable to his Imployment and Practiecs, his Father a pitiful Villain, conſiderable only for having had the honour to have been <hi>Indicted</hi> and <hi>Out-law</hi>'d, as being one of the <hi>Cut-throats</hi> of the Proteſtants in the late Rebellion in that Kingdom, and who now goes a begging with his Wife from Door to Door: This young Hero, their Son, was Originally a <hi>Foot-Boy,</hi> firſt to one Captain <hi>Butler,</hi> and afterwards to one Colonel <hi>Piggot,</hi> and though he hath had the impudence to ſay before the King and Council, that he was a man of a <hi>conſide<g ref="char:EOLhyphen"/>rable Eſtate,</hi> 'tis moſt Notorious, that in Lands, Goods or otherwiſe, he was never worth <hi>twenty Pounds</hi> in his Life, whilſt he continued in <hi>Ireland;</hi> and what he hath done as to Diſcovery of any thing of the Popiſh Plot, he was provok'd thereunto rather by deſire <hi>of Revenge,</hi> than any Sentiments <hi>of Loyalty:</hi> for his Landlord Sir <hi>Thomas Southwel</hi> having diſtrain'd a <hi>few Cattel</hi> he had for his Rent, (which were not at all worth 10 <hi>l.</hi>) And having no way to recover them back again (being <hi>all</hi> that he and his Family had to ſubſiſt on) but by breaking of the <hi>Pound</hi> and ſtealing them out, and Sir <hi>Thomas</hi> Pro<g ref="char:EOLhyphen"/>ſecuting him for the ſame, he then in Revenge Charges Sir <hi>Thomas</hi> for <hi>Concealing the Po<g ref="char:EOLhyphen"/>piſh Plot,</hi> pretended to be Diſcovered by him, to the ſaid Sir <hi>Thomas</hi> ſometime before, which whether <hi>true</hi> or <hi>falſe,</hi> I determin not; 'tis certain few people <hi>believ'd</hi> it, the whole Country knowing him to be a fellow of ſo <hi>vile a Life</hi> and <hi>Converſation,</hi> that they would give no credit to any thing he ſhould either <hi>ſay</hi> or <hi>ſwear,</hi> though they were <hi>otherwiſe</hi> well ſatisfied of the deſigns of the Papiſts.</p>
+            <p>But he hearing that the <hi>Iriſh Plot</hi> was diſcovered in <hi>England</hi> by Mr. <hi>Hethrington</hi> to the King and Council, comes over for <hi>England,</hi> and gave Information before the King and Council and both <hi>Houſes</hi> of Parliament, againſt ſeveral Perſons that were concern'd in the Popiſh Plot in <hi>Ireland;</hi> but his <hi>wants</hi> being very great, inſomuch, that had not his Landlord given him Credit for <hi>Meat, Drink and Lodging,</hi> he muſt either have ſtarv'd, or followed the <hi>old Trade</hi> that he formerly practiſed in <hi>Ireland,</hi> and being a fellow natural<g ref="char:EOLhyphen"/>ly <hi>proud, ambitious, falſe, treacherous,</hi> and diſpoſed as well by his <hi>Conſtitution</hi> as <hi>former Converſation</hi> for any kind of Villany; the <hi>Papiſts</hi> or ſome of their <hi>diſguiſed Factors</hi> and <hi>Abettors,</hi> fell in with him, and manag'd him ſo, as he not only began to <hi>Retract</hi> his Evi<g ref="char:EOLhyphen"/>dence againſt Sir <hi>John Fitz-Gerald,</hi> Colonel <hi>Lacy,</hi> and others. And alſo uſed all the means he could, by <hi>Threats, Diſcouragements</hi> and <hi>Temptations,</hi> to get the reſt of the Witneſſes againſt them and others to <hi>Retract</hi> alſo; which ill Practiſes being found out by Mr. <hi>Hetherington,</hi> he immediately made <hi>a Complaint,</hi> and Exhibited the following <hi>Articles</hi> againſt him to the Houſe of Commons at <hi>Weſtminſter.</hi>
+            </p>
+            <q>
+               <floatingText xml:lang="eng">
+                  <body>
+                     <div type="articles_of_misdemeanor">
+                        <pb n="5" facs="tcp:49714:3"/>
+                        <head>Articles of <hi>High Miſdemenour</hi> preferred againſt <hi>Da<g ref="char:EOLhyphen"/>vid Fitz-Gerald,</hi> to the Houſe of Commons, and there proved fully by Mr. <hi>William Hetherington,</hi> and afterwards before the King and Council; but not there brought io hearing.</head>
+                        <p n="1">1. THe ſaid <hi>Fitz-Gerald</hi> at the firſt coming of the Witneſſes out of <hi>Ireland</hi> to prove the Helliſh Popiſh Plot, did ſeem to be very glad of their coming, to juſtifie their Evidence, and in particular, that of <hi>Euſtace Comins,</hi> ſaying that he was an honeſt man, and was wrongfully clapt up in priſon by the means of Sir <hi>William Davis,</hi> for diſcover<g ref="char:EOLhyphen"/>ing of the Plot, which he the ſaid <hi>Fitz-Gerald</hi> ſwore he could ſay more to, than any of them all, and that he could charge the greateſt men or man in <hi>Ireland</hi> therewith, or in words to that effect: but after he ſaw <hi>Comins</hi>'s Narrative Printed, and found that ſeve<g ref="char:EOLhyphen"/>ral of his Friends, as he pretended, were charged there, then he began to rail and reflect upon him, and threaten to be the death of him; and afterwards took accaſion to abuſe and revile the reſt of the Witneſſes.</p>
+                        <p n="2">2. That amongſt other matters that he pretended he could prove touching the Plot, he ſaid he could prove the day and time that the Duke of <hi>York</hi> was to be Proclaimed King in <hi>Ireland,</hi> and that he would tell the King of it, and that he did acquaint the Earl of <hi>Burlington</hi> coming out from the Committee of the Lords, that he could and would hang thoſe he had accuſed, and bring great ones to prove the matters he had charged them with.</p>
+                        <p n="3">3. That notwithſtanding, the ſaid <hi>Fitz-Gerald</hi> hath ſince endeavoured by many waies and means to bring this Informant and the ſaid Witneſſes into His Majeſties disfavour, and to caſt reproaches upon them, the better to Invalidate their Evidence; alledging untruly, That they had received three thouſand pounds from the City of <hi>London,</hi> or ſome of the Citizens thereof, or ſome others whom he would mention if he could.</p>
+                        <p n="4">4. That the ſaid <hi>Fitz-Gerald</hi> hath ſometimes by threats, other times by feaſts, treats, moneys, promiſes, and other waies of perſwaſion, laboured to take off the ſaid Witneſſes from giving their Evidence on His Majeſties behalf, particularly in the Caſe of Sir <hi>John Davis,</hi> and when all that would not prevail upon them, told them that His Majeſty was diſpleaſed with this Informant's Proceedings, and would be ſo with them, if they follow<g ref="char:EOLhyphen"/>ed his directions; and by theſe devices ſo affrighted them, that he got them to ſign to a Petition to His Majeſty (which he drew for the purpoſe) Intimating, That they were informed, His Majeſty did not look upon them as coming to doe him Service; and that if it were ſo, they ſhould readily deſiſt appearance further: though their intentions were really to ſerve His Majeſty.</p>
+                        <p n="5">5. That the ſaid <hi>Fitz-Gerald,</hi> when he knew the ſaid Witneſſes were to be called into either Houſes of Parliament, or ſome Committee relating to them, to give in their Evi<g ref="char:EOLhyphen"/>dence, hath endeavoured to hide them, or ſome of them, that they could not be found; and when they have been found, he hath laid violent hands on them, or ſome of them, and would not permit them to go, untill they forced themſelves away from him; and then he threatned them, and thoſe that called them, and with an Oath, ſaid he would break <hi>Shaftsbury</hi>'s Knot; and the better to prevail with the Witneſſes, acknowledged he had received for his Service, 100 <hi>l.</hi> of his Grace the Duke of <hi>Ormond,</hi> 500 <hi>l.</hi> from the King, and a Commiſſion to be a Captain; and that His Majeſty had given him two Blank Pat<g ref="char:EOLhyphen"/>tents for Baronets, the one for his Father-in-Law, and the other to be at his own diſpo<g ref="char:EOLhyphen"/>ſing, and a Grant of the Lands of <hi>Rakeale,</hi> and all the Commons of <hi>Knockgreny</hi> in the County of <hi>Limerick.</hi>
+                        </p>
+                        <p n="6">6. That the ſaid <hi>Fitz-Gerald</hi> had not only villified and threatned the ſaid <hi>Comins,</hi> but had alſo informed ſeveral of the Members of the Houſe of Commons, that the ſaid <hi>Comins</hi> was a very Rogue, and that he could produce many Records againſt him, and that he was not fit to be credited: and alſo terrified and threatned to kill him the ſaid <hi>Comins,</hi> ſo that he was forced for ſome time to keep himſelf in Obſcurity That the ſaid <hi>Fitz-Gerald</hi> hath not only villified and abuſed him this Informant, and the Evidence which
+<pb n="6" facs="tcp:49714:4"/> he was concerned for, but alſo Mr. <hi>Thomas Sampſon,</hi> who came over upon his own accord to ſerve His Majeſty in that matter: and who by his Teſtimony therein hath given great ſatisfaction to both Houſes of Parliament.</p>
+                        <p n="7">7. That the ſaid <hi>Fitz-Gerald</hi> being examined by a Committee of the Houſe of Com<g ref="char:EOLhyphen"/>mons againſt Sir <hi>John Fitz-Gerald,</hi> refuſed to give his Evidence, being his Relation, un<g ref="char:EOLhyphen"/>leſs the Committee would promiſe to Intercede to His Majeſty for his the ſaid Sir <hi>John</hi>'s Pardon; and before a Committee of the Lords, in his Evidence, he charged Colonel <hi>John Fitz-Pattrick</hi> and Sir <hi>Edward Scot</hi> to be Confederates in the Plot, but at the Lords Barr would not, though asked, and left their names out in his Narrative, publiſhed in Print, of his own knowledge in that matter, his mind being ſince altered, upon what conſiderati<g ref="char:EOLhyphen"/>ons may well be judged; he alſo ſaid before the ſaid Committe, that he fared the worſe becauſe they knew that the King had a kindneſs for him.</p>
+                        <p n="8">8. That the ſaid <hi>Fitz-Gerald</hi> asked the Witneſſes, or ſome of them, whether they re<g ref="char:EOLhyphen"/>tained the <hi>Romiſh</hi> Religion ſtill? who replied they did, for which he the ſaid <hi>Fitz-Gerald</hi> commended them for ſo doing, for that the Proteſtants would only make uſe of them for their own purpoſe and advantage, and afterwards would hang them.</p>
+                        <p n="9">9. That the ſaid <hi>Fitz-Gerald</hi> alſo told the ſaid Witneſſes, or ſome of them, that the King was ſatisfied that the late Lord <hi>Stafford</hi> was innocent, denying the Fact at his death, or words to that Effect: and that His Majeſty was reſolved not to try any more of the Lords in the <hi>Tower;</hi> and after the Parliament was Prorogued, he told the ſaid Witneſſes, or ſome of them, that he would remove their Neſts.</p>
+                        <p n="10">10. That the ſaid <hi>Fitz-Gerald</hi> had kept continuall correſpondency and familiarity with the four Witneſſes which were brought over by a Meſſenger from <hi>Ireland:</hi> and a Per<g ref="char:EOLhyphen"/>ſon of Quality perceiving it, told him that he had not obſerved the Orders the Com<g ref="char:EOLhyphen"/>mittee gave him; which was, That he ſhould not come near any of the Evidence, nor Converſe with them. The ſaid <hi>Fitz-Gerald</hi> replyed, that he was <hi>Commanded by the King</hi> to come there, and alſo gave the ſaid Perſon of Quality very ſcurrilous abuſive lan<g ref="char:EOLhyphen"/>guage.</p>
+                        <p n="11">11. The ſaid <hi>Fitz-Gerald</hi> alſo abuſed the ſaid four Witneſſes, or ſome of them, and ask<g ref="char:EOLhyphen"/>ed them if they came to hang poor <hi>Plunket.</hi>
+                        </p>
+                        <p n="12">12. That the ſaid <hi>Fitz-Gerald</hi> ſaid he was abuſed, becauſe he would not accuſe the Duke of <hi>Ormond</hi> and the Chancellor of <hi>Ireland,</hi> which he knew to be as honeſt men as any in the three Kingdoms.</p>
+                     </div>
+                  </body>
+               </floatingText>
+            </q>
+            <p>THe Examination of theſe Articles being referred to a Committee, Mr. <hi>Hetherington</hi> produced all the Evidence that <hi>Fitz-Gerald</hi> had been tampering with, and gave full ſatisfaction to the Committee of his villanous Practiſes, of which indeed his own In<g ref="char:EOLhyphen"/>ſolent Behaviours before the ſaid Committee, might alone have been a very pregnant proof. And the Chair-man of that Committee was making his <hi>Report</hi> to the Houſe, when the <hi>Black Rod</hi> came to <hi>Prorogue</hi> them; ſoon after which, a <hi>Diſſolution</hi> followed, other<g ref="char:EOLhyphen"/>wiſe 'tis probable this <hi>Plot-ſhammer</hi> would have been ſeverely dealt with according to Law. But eſcaping Juſtice then ſo luckily, has encouraged him and his Accomplices, to proceed ſince more boldly in their endeavours to ſham the <hi>Popiſh Plot,</hi> and Suborn Wit<g ref="char:EOLhyphen"/>neſſes againſt the Earl of <hi>Shaftsbury,</hi> Mr. <hi>Hetherington,</hi> &amp;c.</p>
+            <p>The firſt courſe he took to ſhock the Integrity of the other Witneſſes, was to fright them with <hi>impudent lies</hi> and <hi>ſcandalous Aſperſions</hi> upon the Perſon and Honour of His <hi>Sacred Majeſty,</hi> aſſuring them with Horrid Oaths, That His Majeſty <hi>did not ſend for them,</hi> nor re<g ref="char:EOLhyphen"/>gard whether they were all <hi>hang'd or drown'd,</hi> That His Majeſty <hi>did not believe</hi> there was any Popiſh Plot at all, <hi>nor care for proſecuting it,</hi> That they ſhould never get any <hi>allowance</hi> if they would not be ruled by him, <hi>&amp;c.</hi> Such brazen-fac'd ſlanders on the beſt of <hi>Monarchs,</hi> who on all occaſions has ſo vigorouſly ſhewn himſelf <hi>a true Defender of the Proteſtant Faith,</hi> that no good Subject can repeat them without Horror, and Wonder that the Villian that broach'd them, has ſo long eſcaped the <hi>Pillory,</hi> or rather the <hi>Gallows.</hi>
+            </p>
+            <p>In the next place he <hi>braves</hi> it out with fine clothes, and Inſults over the other Witneſ<g ref="char:EOLhyphen"/>ſes <hi>poverty,</hi> and ſhews them whole <hi>handfulls of temptation,</hi> bright charming Gold: Inſinua<g ref="char:EOLhyphen"/>ting that they ſhould have the like encouragment if they would but embark with him in the ſame deſign. Some of them indeed had ſo much <hi>conſcience</hi> and ſparks of honeſty re<g ref="char:EOLhyphen"/>maining, or at leaſt ſuch regard to their future repute and ſafety, as for ſome time to <hi>ſtruggle</hi> with theſe Temptations, and then <hi>freely upon Oath</hi> diſcovered the <hi>profered Subor<g ref="char:EOLhyphen"/>nations</hi> and wheadling devices; yet afterwards (as may reaſonably be judged by the ſe<g ref="char:EOLhyphen"/>quel) over-ſwayed with the ſuggeſtions of the Devil and his Inſtruments, ſo as to value neither <hi>Truth</hi> nor <hi>Conſcience,</hi> nor even their <hi>former Oaths,</hi> pinched with neceſſities and
+<pb n="7" facs="tcp:49714:4"/> 
+               <hi>Brow-beaten</hi> with the frowns of Grandees, and abandoned (almoſt) by all the World, they began to hearken to the voice of this <hi>Man-catching Syren,</hi> and forget the Popiſh Plot, and ſet up the <hi>Iriſh Ha-loo-loo</hi> againſt Proteſtants; and being once engaged, and ha<g ref="char:EOLhyphen"/>ving ſlung their Conſciencies over-board, nothing remains that they will <hi>Boggle</hi> at, or which their grand <hi>Plot-ſhamming</hi> Maſters and dayly Feeders pleaſe to put them upon.</p>
+            <p>This may ſeem a <hi>bold charge,</hi> and would appear very unjuſt, had we only ſuſpitions and probable proofs, or <hi>violent preſumptions,</hi> to juſtifie it, but we have it under ſeveral of their <hi>own hands,</hi> nay more upon <hi>their Oaths,</hi> which for the Readers ſatisfaction, we ſhall here faithfully recite. The following <hi>Depoſitions</hi> being by ſeveral of them (ere they were ſo totally debauched) <hi>voluntarily ſworn</hi> before the reſpective Magiſtrates therein mentioned.</p>
+            <q>
+               <floatingText xml:lang="eng">
+                  <body>
+                     <div type="deposition">
+                        <opener>
+                           <dateline>London ſſ.</dateline>
+                        </opener>
+                        <head>The Information of <hi>Maurice Fitz-Gerald, Gent.</hi> taken this Eighteenth Day of <hi>March,</hi> 1680. upon Oath before me, Sir <hi>John Frederick, Knight</hi> and <hi>Alderman,</hi> one of the Kings Majeſties Juſtices of the Peace, for the City of <hi>London.</hi>
+                        </head>
+                        <p>THis Informant being duly ſworn ſaith, That whereas it is reported in and about the City of <hi>London</hi> and <hi>Weſtminſter,</hi> and other places, That he hath retracted from the Evi<g ref="char:EOLhyphen"/>dence and Information that he gave upon Oath before <hi>John Odell, Nicholas Mouncton</hi> and <hi>George Ayleſmer,</hi> three of His Majeſties Juſtices of the Peace for the County of <hi>Limerick,</hi> in the Kingdom of <hi>Ireland,</hi> againſt ſeveral Perſons in the ſaid Information mentioned, being concerned in the Horrid Popiſh Plot, contrived againſt His Majeſty and His Proteſtant Sub<g ref="char:EOLhyphen"/>jects there, it is altogether falſe and untrue. And further declareth, That whatſoever he hath related in the ſaid Information, is altogether true, and will upon no account whatſoever retract from the ſame, but will juſtifie the ſame Information whenſoever he this Informant ſhall be thereunto required. And further ſaith, That whereas there was a Petition lately preſent<g ref="char:EOLhyphen"/>ed in the name of this Informant and others (as he hath heard) to the King and Council, by <hi>David Fitz-Gerald,</hi> That he this Informant had diſowned any Information that he had given againſt Sir <hi>John Fitz-Gerald</hi> and <hi>Colonel Pierce Lacy,</hi> He this Informant doth declare, That he knew nothing of the ſaid Petition till after it was preſented, and was not any waies con<g ref="char:EOLhyphen"/>cerned in the ſame.</p>
+                        <closer>
+                           <signed>Maurice Fitz-Gerald</signed>
+
+                        </closer>
+                        <postscript>
+                           <p>Jur. Coram me,</p>
+                           <closer>
+                              <signed>John Frederick.</signed>
+                           </closer>
+                        </postscript>
+                        <postscript>
+                           <p>Vera Copia.</p>
+                           <closer>
+                              <signed>E. B.</signed>
+                           </closer>
+                        </postscript>
+                     </div>
+                  </body>
+               </floatingText>
+            </q>
+            <p>Which Information given by the ſaid <hi>Maurice Fitz-Gerald</hi> in <hi>Ireland,</hi> follows in theſe words.</p>
+            <q>
+               <floatingText xml:lang="eng">
+                  <body>
+                     <div type="deposition">
+                        <opener>
+                           <dateline>Com. Limerick.</dateline>
+                        </opener>
+                        <head>The Information of <hi>Maurice Fitz-Gerald, Gent.</hi> taken before us, <hi>John Odell, Nicho<g ref="char:EOLhyphen"/>las Muncton</hi> and <hi>George Aylſmer,</hi> three of His Majeſties Juſtices of the Peace, for the County of <hi>Lime<g ref="char:EOLhyphen"/>rick.</hi>
+                        </head>
+                        <p>THe Informant being duely ſworn on the Holy <hi>Evangeliſt</hi> ſaith, That on or about <hi>Winter,</hi> 1676. after Captain <hi>Thomas Mac-Inerina</hi> returned out of <hi>Flanders</hi> and <hi>France,</hi> whether he had been imployed as Agent from the <hi>Iriſh</hi> Gentry, there was a very
+<pb n="8" facs="tcp:49714:5"/> great meeting, at Colonell <hi>Peirce Lacy</hi>'s Houſe at <hi>Curroe,</hi> where met beſides the ſaid Colonel, the Lord of <hi>Brittas, Molowney</hi> the Popiſh Titular Biſhop of <hi>Killalow, Brenan</hi> the Popiſh Biſhop of <hi>Waterford, Duley</hi> the Popiſh Biſhop of <hi>Limerick,</hi> two <hi>Jeſuits</hi> whoſe names this Informant knows not, Sir <hi>John Fitz-Gerald, John Power,</hi> Son to <hi>David Power</hi> late of <hi>Killbolan, John Hurley, Euſtace White, John Bourke</hi> of <hi>Cahormohill, William Bourke</hi> his Brother, Captain <hi>John Purdon,</hi> Captain <hi>Thomas Mac-Inerina,</hi> Captain <hi>Richard Stephen<g ref="char:EOLhyphen"/>ſon, David Fitz-Gerald,</hi> and he this Informant, and ſeveral others, whoſe names this Infor<g ref="char:EOLhyphen"/>mant knows not, where and at which time the ſaid Captain <hi>Mac-Inerina</hi> gave an account of his Agency, and what Force the <hi>French</hi> King had promiſed to ſend over into this King<g ref="char:EOLhyphen"/>dom of <hi>Ireland,</hi> which to the beſt of this Informants remembrance, was to be about 20000 men, and Artillery, Armes and Amunition for 20000 men more, which were to be raiſed in <hi>Munſter,</hi> and they then and there conſulted how the 20000 men ſhould be raiſed, and reſolved it ſhould be by their <hi>Clergy,</hi> and made a Computation, and appoint<g ref="char:EOLhyphen"/>ed how many each Prieſt ſhould raiſe in his Pariſh; and likewiſe appointed the Offi<g ref="char:EOLhyphen"/>cers that ſhould Command, and ſaies that the Lord of <hi>Brittas,</hi> Colonel <hi>Pierce Lacy,</hi> Sir <hi>John Fitz-Gerald, John Macnamarra</hi> of <hi>Cortlaigh, John Power,</hi> Captain <hi>Sulivan of Beere<g ref="char:EOLhyphen"/>haven,</hi> one <hi>Carty,</hi> and ſeveral others were to be Colonels: That <hi>John Bourke</hi> of <hi>Cahirmo<g ref="char:EOLhyphen"/>kill</hi> was to be Lieutenant Colonel, and that Captain <hi>Thomas Mac-Inerina</hi> was to be Lieu<g ref="char:EOLhyphen"/>tenant Colonel, or Major to Captain <hi>Sulivans</hi> Regiment, and that Captain <hi>John Purdon,</hi> Captain <hi>Richard Stephenſon,</hi> Mr. <hi>John Hurley</hi> and Mr. <hi>Euſtace White,</hi> were to be Field-Of<g ref="char:EOLhyphen"/>ficers; and that he hath heard, That Mr. <hi>John Anktill</hi> was to be Lieutenant Colonel, and that Mr. <hi>William Bourke,</hi> Mr. <hi>Theobald Dowdall,</hi> Mr. <hi>Oliver Stephenſon,</hi> Mr. <hi>David Fitz-Gerald,</hi> now in <hi>London,</hi> This Informant, and ſeveral others, were then appointed Captains, and that <hi>John Bourke</hi> of <hi>Ardagh,</hi> and ſeveral others, were appointed Lieute<g ref="char:EOLhyphen"/>nants, and that <hi>John Dury</hi> and <hi>Tady Quin,</hi> were to be Captains, and that <hi>Nicholas Bourke</hi> and many others of <hi>Limerick,</hi> were then pitched on for the ſurprize of <hi>Limerick,</hi> whoſe names at preſent he remembers not, and ſaith, That on notice from Captain <hi>Sulivan</hi> of <hi>Beerehaven</hi> of the <hi>Frenches</hi> landing, there was a <hi>Maſſacre</hi> of all the <hi>Engliſh</hi> reſolved in one Night, and perſons particularly aſſigned to the <hi>Maſſacre</hi> or <hi>Murther</hi> of every Fami<g ref="char:EOLhyphen"/>ly, and ſaith, That the Popiſh Servants in each Family were to betray and open the doors, or ſome other way let in thoſe <hi>Iriſh,</hi> and ſo murther the <hi>Engliſh</hi> in their beds, and after if they could not ſurprize, they were imediately to beſiege <hi>Limerick:</hi> and ſaith, That by reaſon of the Emperors, the King of <hi>Spain,</hi> and other the Confederates joyning and aſſiſt<g ref="char:EOLhyphen"/>ing the <hi>Dutch,</hi> the <hi>French</hi> King was hindred from ſending out thoſe Forces and Arms he promiſed, and ſo all things were at a ſtand till about <hi>Michaelmas,</hi> 1679. That all the afore<g ref="char:EOLhyphen"/>named perſons, and <hi>John Macnamarra</hi> of <hi>Cratellaigh, John Anktill</hi> of <hi>Farochy,</hi> Captain <hi>Levallin</hi> and ſeveral others, met at Mr. <hi>William Bourke's</hi> Houſe at <hi>Liſnekilly,</hi> and continu<g ref="char:EOLhyphen"/>ed there two or three daies together, and that the ſaid Captain <hi>Levallin</hi> brought and produced a Commiſſion for the raiſing of thoſe 20000 men, and uniting them with what Forces ſhould be ſent out of <hi>France,</hi> and rayſed in other parts of this Kingdom; and ſaith, That he hath heard, that the Earl of <hi>Tyrone</hi> was to be a General Officer, and Co<g ref="char:EOLhyphen"/>lonel <hi>Fitz-Patrick</hi> and Sir <hi>Wiliam Talbot,</hi> were to have ſome great Commands, and ſaith, That all then preſent at <hi>Liſnekilly,</hi> bound themſelves by ſtrict Oaths, and by an Inſtru<g ref="char:EOLhyphen"/>ment under their Hands and Seals, to be true and faithfull and ſtand by each other, and ſaith, That the Plot is ſtill, and that they have dayly hopes of the <hi>French</hi> Kings inva<g ref="char:EOLhyphen"/>ding, and that he hath heard there was ſome Powder lately landed in the County of <hi>Clare,</hi> ſide of the River of <hi>Shanon,</hi> and that he will labour to diſcover it, and ſaith, That he hath ſome papers which he will peruſe, and hopes by them other things may occur to his memory, which he will be ready to add to this his Information; and ſaith, That he hath been told, That <hi>David Fitz-Gerald</hi> diſcovered the ſaid Plot both to Sir <hi>Thomas Southwell</hi> and <hi>John Piggot,</hi> 
+                           <abbr>Eſq</abbr> And this Informant ſaith; That in caſe this Informa<g ref="char:EOLhyphen"/>tion ſhould be known, he and his Family are in danger of being murthered.</p>
+                     </div>
+                  </body>
+               </floatingText>
+            </q>
+            <q>
+               <pb n="5" facs="tcp:49714:5"/>
+               <floatingText xml:lang="eng">
+                  <body>
+                     <div type="deposition">
+                        <opener>
+                           <dateline>London, ſſ.</dateline>
+                        </opener>
+                        <head>The Information of <hi>Maurice Fitz-Gerrald</hi> Gent. taken the one and twentieth day of <hi>March</hi> 1680. upon Oath before me <hi>Sir John Frederick</hi> Knight and Alderman, one of the Kings Ma<g ref="char:EOLhyphen"/>jeſties Juſtices of the Peace for the City of <hi>London.</hi>
+                        </head>
+                        <p>THis Informant ſaith that <hi>David Fitz-Gerrald</hi> was a Grand Plotter, and alſo to be a Captain to aſſiſt the French King, as he hath for<g ref="char:EOLhyphen"/>merly ſworn and declared; and that there was a difference between one Collonel <hi>Lacy</hi> and the Lord <hi>Brittis,</hi> which of them ſhould have the ſaid <hi>David</hi> to be their Captain in their ſaid Regiments. And further the ſaid <hi>Maurice</hi> Depoſeth, that the ſaid <hi>David</hi> did uſe all his endeavours to ſtifle ſome of his Majeſties Evidence, as himſelf, one <hi>Edmond Morphew John Moyer, Hugh Duffey, George Coddan, Paul Garmley,</hi> and <hi>Mortaph Downing,</hi> from declaring the truth concerning the horrid Popiſh-Plot in <hi>Ireland.</hi> And further ſaith, that the ſaid <hi>David-Fitz-Gerrald,</hi> did deſire him this Informant and the reſt of his Majeſties Evidence, to go back for <hi>Ireland,</hi> that the ſaid <hi>David</hi> might be Captain over all the ſaid Evidence, and have all the benefit to himſelf. Alſo the ſaid Informant ſaith that the ſaid <hi>David Fitz-Gerrald,</hi> did ſend one <hi>Thomas Fitz-Ger<g ref="char:EOLhyphen"/>rald,</hi> to one <hi>John Fitz-Gerrald</hi> to perſwade him the ſaid <hi>John Fitz-Gerrald</hi> to retract his Evidence. And the ſaid <hi>John</hi> being come to the ſaid <hi>David Fitz-Gerrald,</hi> this Informant was ordered by the ſaid <hi>David</hi> to withdraw into a private Chamber, that he might not hear their Contrivance and Diſcourſe. As alſo, the ſaid <hi>John</hi> was to be one of the three <hi>Eitz-Gerralds</hi> that were to joyn with the ſaid <hi>David</hi> againſt his Ma<g ref="char:EOLhyphen"/>jeſties Evidence. Furthermore, the ſaid <hi>David</hi> did order me to write in my Information, that one <hi>William Hetherington</hi> and the reſt of his Maje<g ref="char:EOLhyphen"/>ſties Evidence, were but all Rogues and Thieves, and Goale-breakers, and Turbalent perſons; and that their Evidence ought not to be taken, either by King or Parliament; And the ſaid <hi>David Fitz-Gerald</hi> did likewiſe tell this Informant, that his Majeſty told him the ſaid <hi>David Fitz-Gerrald,</hi> that he would not give, or Order any money for his ſaid Evidence that are in the City, unleſs the ſaid perſons would go back from their Evidence, and joyn with the ſaid <hi>David Fitz-Gerrald,</hi> meaning one <hi>Moyer, Morphey,</hi> and <hi>Duffey,</hi> that were to have thirty pounds a piece to joyn with the ſaid <hi>David,</hi> againſt the reſt of his Majeſties Evidence. Further, being de<g ref="char:EOLhyphen"/>manded whether <hi>David Fitz-Gerrald</hi> had been at any time in Company with the Earl of <hi>Aron,</hi> and Sir <hi>John Davis,</hi> ſince the laſt Seſſions of Parli<g ref="char:EOLhyphen"/>ament, ſaith ſeveral times at their reſpective Lodgings, and likewiſe, that the ſaid <hi>David</hi> had been ſeveral times with Sir <hi>John Fitz-Gerrald</hi> in the <hi>Gatehouſe,</hi> likewiſe, this Informant ſaith, that he hath ſeen <hi>David Fitz-Gerrald,</hi> in Company with <hi>Robert Poor,</hi> a perſon charged for Treaſon, at the ſaid <hi>Davids</hi> Lodging, where the ſaid <hi>David Fitz-Gerrald</hi> gave the ſaid <hi>Robert Poor</hi> Inſtructions to draw up the Articles againſt Mr. <hi>Hethering<g ref="char:EOLhyphen"/>ton.</hi>
+                        </p>
+                        <closer>
+                           <signed>Maurice Fitz-Gerrald.</signed>
+                        </closer>
+                        <postscript>
+                           <p>Jurat Viceſſimo primo die Martij 1680. Coram me.</p>
+                           <closer>
+                              <signed>John Frederick.</signed>
+                           </closer>
+                        </postscript>
+                     </div>
+                  </body>
+               </floatingText>
+            </q>
+            <q>
+               <pb n="6" facs="tcp:49714:6"/>
+               <floatingText xml:lang="eng">
+                  <body>
+                     <div type="deposition">
+                        <head>The informatton of <hi>Owen Callaghan</hi> and <hi>Murtagh Downing</hi> taken upon Oath before the Right Honorable Sir <hi>Patient Ward</hi> Knight, Lord Mayor of the City of <hi>London,</hi> the 4th. of <hi>May,</hi> 1681.</head>
+                        <p>THe ſaid Informants being duly ſworn and examined upon the holy Evangeliſt, depoſeth and ſaith: That <hi>David Fitz-Gerald</hi> hath u<g ref="char:EOLhyphen"/>ſed all the means he could poſſible for to get theſe Informants to retract from their Evidence theſe Informants had formerly given in againſt ſeve<g ref="char:EOLhyphen"/>ral perſons who were concerned in the late Horrid Popiſh Plot in <hi>Ireland.</hi> The ſaid <hi>David Fitz-Gerald</hi> meeting with theſe Informants in the City of <hi>Weſtminſter</hi> near Charing-Croſs demanded of them theſe Informants what their buſineſs was here in <hi>England,</hi> whereupon they theſe Informants told the ſaid <hi>David Fitz-Gerald</hi> that they came over to be Witneſſes for the King, to whom the ſaid <hi>David Fitz-Gerald</hi> replying, and ſaid to theſe Infor<g ref="char:EOLhyphen"/>mants, that the King did not ſend for them nor for the reſt of the Evidence and that the King had rather that they were all hanged or drowned, than that they ſhould ſtay here to any ſuch purpoſe. And theſe Informants fur<g ref="char:EOLhyphen"/>ther ſay, that the ſaid <hi>David Fitz-Gerald</hi> told them theſe Informants, that thoſe that would joyn with him the ſaid <hi>Fitz-Gerald</hi> againſt Mr. <hi>William Hetherington,</hi> and the reſt of his Majeſties Evidence ſhould have money enough, and named Ten Pounds a piece and alſo their paſs for <hi>Ireland.</hi> And theſe Informants further declare that in the company of one <hi>Morris Fitz-Gerald</hi> who is alſo one of the Kings Evidence, and the ſaid <hi>Mortagh Down<g ref="char:EOLhyphen"/>ing</hi> one of theſe Informants being at the ſign of the Kings Head in <hi>Long-Acre</hi> near <hi>London,</hi> the ſaid <hi>David Eitz-Gerald</hi> declared that the ſaid Evi<g ref="char:EOLhyphen"/>dence had better to go home for <hi>Ireland:</hi> and dig their Potatoe Gardens than to ſtay here and expect any money from his Majeſty for their ſervice. And that the ſaid <hi>David Fitz-Gerald</hi> alſo declared to theſe Informants that his Majeſty did not care for putting this Popiſh Plot forward at all, and the ſaid <hi>David Fitz-Gerald</hi> further ſaid, that his Majeſty did not believe there was any ſuch Popiſh Plot intended in <hi>Ireland.</hi> And theſe Informants fur<g ref="char:EOLhyphen"/>ther declare, that the ſaid <hi>David Fitz-Gerald</hi> declared and ſaid to theſe In<g ref="char:EOLhyphen"/>formants that his Majeſty did not care for any man that ſhould ſpeak any thing againſt his Grace the Duke of <hi>Ormond,</hi> neither would his Majeſty be<g ref="char:EOLhyphen"/>lieve that the ſaid Duke had any hand in the ſaid <hi>Iriſh</hi> Plot. And theſe in<g ref="char:EOLhyphen"/>formants further declare that the ſaid <hi>David Fitz-Gerald,</hi> wherein he could meet with theſe informants, and the ſaid <hi>Morris Fitz-Gerald</hi> in diſcourſe would tell the foreſaid <hi>Morris Fitz-Gerald</hi> and theſe informants, that his Majeſty would not give them any money for maintenance, nor money to bear their charge for <hi>Ireland,</hi> except they would all joyn with him the ſaid <hi>David Fitz-Gerald</hi> againſt the ſaid Mr. <hi>William Hetherington,</hi> and the reſt of his Majeſties Evidences: meerly to force them to retract from the diſ<g ref="char:EOLhyphen"/>charge of their Conſciences in giving in their juſt Evidences to ſerve his Majeſty, as in true zeal and loyalty to their King and Country they ought to do as becometh true Subjects: And theſe Informants further declare, that the ſaid <hi>David Fitz-Gerald</hi> declared to ſeveral Fryars (whoſe names
+<pb n="7" facs="tcp:49714:6"/> do follow) when firſt they came to him the ſald <hi>David Fitz-Gerald,</hi> that they ſhould have no money from his Majeſty unleſs that he the ſaid <hi>David Fitz-Gerald</hi> did further and forward them the old Fryars which he would do upon condition that the ſaid Fryars would aſſuredly joyn with him the ſaid <hi>David Fitz-Gerald</hi> againſt the ſaid Mr. <hi>Hetherington</hi> and the reſt of his Majeſties Evidence, &amp;c. The which they the ſaid Fryars have ſince ac<g ref="char:EOLhyphen"/>accordingly done and agreed to the ſaid <hi>Fitz-Gerralds</hi> deſire, as namely Fryer <hi>John Moyer, Edmond Murphey</hi> a ſecular Prieſt, Fryer <hi>Hugh Duffey</hi> and others by the ſaid <hi>Fitz-Gerralds</hi> procurement. And theſe Informants further ſay, That the ſaid <hi>Fitz-Gerrald</hi> ordered all the ſaid parties to have all things in readineſs, in order thereunto in Writing: Theſe Informants alſo ſay, that the ſaid <hi>Moyer, Murphey Duffy</hi> and others, gave him the ſaid <hi>Fitz-Gerrald</hi> a Contract in Writing under their hands, to effect the ſaid purpoſe ſolintended by them, which was to ſide with him the ſaid <hi>Fitz-Gerrald,</hi> againſt the ſaid Mr. <hi>Hetherington.</hi> And theſe Informants further ſay, that the ſaid <hi>David Fitz-Gerrald</hi> hath likewiſe ingaged himſelf to the ſaid Fryers, that all the Names of thoſe perſons in <hi>Ireland,</hi> who are con<g ref="char:EOLhyphen"/>cerned in the ſaid horrid Plot, that he the ſaid <hi>Fitz-Gerrald</hi> would under<g ref="char:EOLhyphen"/>take to have mony enough from his Majeſty for them, upon the condition that they would ioyn with him the ſaid <hi>Fitz-Gerrald</hi> againſt the ſaid Mr. <hi>Hetherington,</hi> and the reſt, to ſham their Evidence in ſpeaking the Truth as aforeſaid in the diſcharge of their Conſciences. And further the ſaid <hi>David Fitz-Gerrald</hi> told them, theſe Informants, that he would make his Majeſty not to give any of the Evidence that was in this City of <hi>London</hi> any money at all, and that as ſoon as the Parliament ſate at <hi>Oxford,</hi> that thoſe Evidences then lying in the City of <hi>London,</hi> would be all hang'd for lying there; meerly on a pretence to get theſe Informants as they ve<g ref="char:EOLhyphen"/>rily believe, to joyn with him the ſaid <hi>Fitz-Gerrald,</hi> as the before named <hi>Moyer, Murphey, Duffey,</hi> and one <hi>George Murphy</hi> had done; the which ſaid perſons, the ſaid <hi>Fitz-Gerrald</hi> had drawn to ſide with himſelf, by Treats Threats and Money as aforeſaid. And theſe Informants further ſay, That the ſaid <hi>David Fitz-Gerrald</hi> declared to them, theſe Informants, that his Majeſty had told him the ſaid <hi>Fitz-Gerrald,</hi> that within one week after the Parliament were met and ſate at <hi>Oxford,</hi> they would be diſſolved. And that then every one of the Evidence might go home about their buſi<g ref="char:EOLhyphen"/>neſs: and theſe Informants further ſay, that one Doctor <hi>Thomas Fitz-Gerrald,</hi> who was ſent by the ſaid <hi>David Fitz-Gerrald</hi> as theſe Informants verily believes, on purpoſe to Trap or inſnare us theſe Informants in our Evidence, and thereby to know our intentions, and for no other end then to get us to retract our Evidence as aforeſaid: he the ſaid Doctor <hi>Thomas Fitz-Gerrald</hi> uttering himſelf in theſe words <hi>(viz.)</hi> that he the ſaid Doctor <hi>Fitz-Gerrald</hi> would Piſtol or kill the ſaid <hi>David Fitz-Gerrald,</hi> (always provided) That they, theſe Informants, would joyn with him the ſaid Doctor <hi>Fitz-Gerrald</hi> againſt the ſaid <hi>David Fitz-Gerrald.</hi> And theſe Informants further ſay, That the ſaid Doctor made it his Buſineſs to come ſeveral Nights to the Informant <hi>Mortough Downings</hi> Lodging to ef<g ref="char:EOLhyphen"/>fect his ſaid purpoſe, thinking thereby to intrap theſe Informants in their Evidence, as aforeſaid, if by any means he could.</p>
+                     </div>
+                  </body>
+               </floatingText>
+            </q>
+            <q>
+               <pb n="8" facs="tcp:49714:7"/>
+               <floatingText xml:lang="eng">
+                  <body>
+                     <div type="deposition">
+                        <head>The Information of <hi>Bernard Dennis,</hi> taken upon Oath before the Right Honourable Sir <hi>Pa<g ref="char:EOLhyphen"/>tient Ward,</hi> Knight, then Lord Mayor of the City of <hi>London.</hi>
+                        </head>
+                        <p>I Do remember that Captain <hi>David Fitz-Gerrald</hi> at ſeveral places hath told me, that the King was clearly againſt Mr. <hi>Hetheringtons</hi> pro<g ref="char:EOLhyphen"/>ceedings, and that if the Iriſh Evidence did follow his directions they were likely enough to fall out of the Kings Favour as well as he: and the Reaſon was, becauſe of his Familiarity with the Earl of <hi>Shaftsbury.</hi> And that his Majeſty would be highly diſconted that any of the Evidence ſhould proceed againſt Sir <hi>John Davis</hi> or any of his appointed Magi<g ref="char:EOLhyphen"/>ſtrates without his permiſſion. He further told me, that there was a Collection made for the Iriſh Evidence, in the City of <hi>London,</hi> and that the King had notice of it. And if we would take <hi>Fitz-Grralds</hi> advice we might have what mony we would, and told me that he had five hun<g ref="char:EOLhyphen"/>dred pounds Sterling, and a Commiſſion for a Captains place from his Ma<g ref="char:EOLhyphen"/>jeſty, and that he was to go ſuddenly for <hi>Ireland,</hi> he further told me that his Majeſty was informed, that we the Kings Evidence came over not to ſerve him, but to caſt an Aſperſion upon his Majeſty: which we utterly then, and always abſolutely do deny. Hereupon, we drew and preſented a Petiti<g ref="char:EOLhyphen"/>on to his Majeſty, ſetting forth the occaſion of our coming over: which was to ſerve his Majeſty and the Kingdom, and that when he pleaſed, we were willing to return home: after this, he told me that his Majeſty in<g ref="char:EOLhyphen"/>tended to impeach Mr. <hi>Hetherington.</hi>
+                        </p>
+                        <closer/>
+                        <postscript>
+                           <p>Vera Copia.</p>
+                        </postscript>
+                     </div>
+                  </body>
+               </floatingText>
+            </q>
+            <q>
+               <pb n="9" facs="tcp:49714:7"/>
+               <floatingText xml:lang="eng">
+                  <body>
+                     <div type="deposition">
+                        <opener>
+                           <dateline>
+                              <hi>London</hi> ſſ.</dateline>
+                        </opener>
+                        <head>The Information of <hi>Mary Cox,</hi> Spinſter, taken upon Oath the eighth day of July, 1681. before Sir <hi>John Frederick</hi> Knight, one of his Majeſties Juſtices of the Peace for the City of <hi>London.</hi>
+                        </head>
+                        <p>
+                           <hi>MAry Cox</hi> of <hi>Stoke Newington,</hi> in the County of <hi>Middleſex, Spinſter,</hi> maketh Oath, that being at Mr. <hi>Robert Boulters</hi> a <hi>Stationer</hi> in <hi>Cornhil London,</hi> the night before Mr. <hi>Plunket</hi> was Tryed, Mr. <hi>Bernard Dennis</hi> came to ſpeak with Mr. <hi>Boulter</hi> aforeſaid, and in Diſcourſe of the Tryal of <hi>Plunket,</hi> Mr. <hi>Dennis</hi> ſaid, that coming from the other end of the Town, in <hi>Fetter-Lane,</hi> by the <hi>Croſs-Keys,</hi> he ſaw a Crowd of people, and enquiring what was the reaſon of it, they told him it was a <hi>Subpena</hi> ſerved upon <hi>Murphy,</hi> and he ſaid <hi>Murphy</hi> had abſconded for ſome time, becauſe he would not have been Sub<g ref="char:EOLhyphen"/>pened, and he ſaid <hi>Murphy</hi> did ſay, he would not appear the next day according to the Subpena, but what the Iſſue was he did not know; but left them and came ſtraight to Mr. <hi>Boulters.</hi> After ſome Diſ<g ref="char:EOLhyphen"/>courſe of Mr. <hi>Dennis</hi> his being in <hi>Newgate,</hi> and that Mr. <hi>Wilmore</hi> was Bayl for him and <hi>Macnamarra,</hi> my ſelf and Mr. <hi>Boulter</hi> aforeſaid, ask<g ref="char:EOLhyphen"/>ed him ſome Queſtions about Mr. <hi>Hetherington,</hi> and whether he thought him an honeſt Man, he told us he thought him a very honeſt Man for what ever he did ſee or know concerning him. Then we asked him what was become of his Man <hi>George,</hi> he ſaid he was gone from him over to <hi>Fitz-Gerrald,</hi> and that he had new Clothes, and was very fine, and ſaid ſo might he have if he would turn Rogue, for he ſaid he had a Letter in his Pocket, which made him great proffers to retract his Evidence. We ask'd him from whom he had this Let<g ref="char:EOLhyphen"/>ter, he ſaid from <hi>Fitz-Gerrald.</hi> Then we asked him if he were ſure it was from him, and how he knew it, he ſaid it was writ with his own hand, and his Name ſubſcribed to it, and that he knew his Hand very well, and had ſeen it ſeveral times. And he ſaid in this Letter, <hi>Fitz-Gerrald</hi> proffered him Gold and Silver enough holding out his hands, as people do when full of Money, and that he might have his change of Rayment, and live Comfortably not only for the preſent for the future alſo. But he ſaid, he hoped
+<pb n="10" facs="tcp:49714:8"/> he ſhould approve himſelf an honeſt Man, and take Mr. <hi>Boulters</hi> Council, to keep to the Truth, and then he ſhould never be aſha<g ref="char:EOLhyphen"/>med. There were preſent Mr. <hi>Boulters</hi> Wife, one Mrs. <hi>Norton</hi> and my ſelf. We had ſeveral other diſcourſes about divers Iriſh Men that were gone off, and about the great endeavour <hi>Fitz-Gerrald</hi> made to get the Evidence over to his ſide, which I cannot remember ſo par<g ref="char:EOLhyphen"/>ticularly as I did the former.</p>
+                        <closer>
+                           <signed>Mary Cox.</signed>
+                        </closer>
+                        <postscript>
+                           <p>Jurat. octavo die Julij, 1681. Anno<expan>
+                                 <am>
+                                    <g ref="char:abque"/>
+                                 </am>
+                                 <ex>que</ex>
+                              </expan> Caroli ſecundi nunc Angl. &amp;c. xxxiij. Coram me</p>
+                           <closer>
+                              <signed>John Frederick.</signed>
+                           </closer>
+                        </postscript>
+                     </div>
+                  </body>
+               </floatingText>
+            </q>
+            <q>
+               <floatingText xml:lang="eng">
+                  <body>
+                     <div type="deposition">
+                        <opener>
+                           <dateline>
+                              <hi>London,</hi> ſſ.</dateline>
+                        </opener>
+                        <head>
+                           <hi>The Information of</hi> Robert Boulter of <hi>Cornhil London, Stationer,</hi> taken upon Oath, before <hi>Sir John Frederick</hi> One of his Majeſties Juſtices of the Peace for the City of <hi>London,</hi> on the eighth day of <hi>July</hi> 1681.</head>
+                        <p>
+                           <hi>RObert Boulter</hi> of <hi>Cornhil London, Stationer,</hi> maketh Oath, that he was preſent when the diſcourſe happened between Mr. <hi>Bernard Dennis,</hi> and Mrs. <hi>Mary Cox,</hi> and himſelf, as in her Depoſition aforegoing is ſet forth, and that the ſame is a juſt and true Account of the ſaid Diſcourſe.</p>
+                        <closer>
+                           <signed>Robert Boulter.</signed>
+                        </closer>
+                        <postscript>
+                           <p>Jurat. octavo die Julij 1681. Anno<expan>
+                                 <am>
+                                    <g ref="char:abque"/>
+                                 </am>
+                                 <ex>que</ex>
+                              </expan> Caroli ſecundi nunc Angl. &amp;c. xxxiij. Coram me</p>
+                           <closer>
+                              <signed>John Frederick.</signed>
+                           </closer>
+                        </postscript>
+                     </div>
+                  </body>
+               </floatingText>
+            </q>
+            <q>
+               <pb n="11" facs="tcp:49714:8"/>
+               <floatingText xml:lang="eng">
+                  <body>
+                     <div type="document">
+                        <head>A true Coppy of a Paper, Remaining at the Council-Board, atteſted in purſuance of an Order in Council, Dated the fifth day of <hi>October,</hi> 1681.</head>
+                        <opener>
+                           <signed>William Blaithway.</signed>
+                           <dateline>Council-Chamber, <date>the fifth day of <hi>October</hi> 1681.</date>
+                           </dateline>
+                        </opener>
+                        <p>
+                           <hi>BRyan Heynes</hi> of <hi>London,</hi> Gent. Aged thirty years and upwards, maketh Oath, that Mr. <hi>David Fitz-Gerrald</hi> one of the Kings Evidence, about the latter end of <hi>February</hi> laſt, told this Deponent that he the ſaid <hi>Fitz-Gerrald</hi> poſſeſſed his Majeſty, and alſo gave it un<g ref="char:EOLhyphen"/>der his hand and Seal, that the late Plot was a Presbiterian Plot, and invented by the Right Honourable <hi>Anthony</hi> Earl of <hi>Shaftsbury,</hi> on pur<g ref="char:EOLhyphen"/>poſe to extirpate the Family of the <hi>Stewarts,</hi> and dethrone his preſent Majeſty, and turn <hi>England &amp;c.</hi> into a Commonwealth, or elſe ſet the Crown upon the Earls own head, which the ſaid Earl told the ſaid <hi>Fitz-Gerrald,</hi> did more appertain to the ſaid Earl, then to his pre<g ref="char:EOLhyphen"/>ſent Majeſty, as the ſaid <hi>Fitz-Gerrald</hi> told this Deponant, and this Deponant further ſaith, that one <hi>Robert Power,</hi> Agent for the Earl of <hi>Ty<g ref="char:EOLhyphen"/>rone,</hi> &amp; likewiſe the ſaid <hi>Fitz-Gerrald</hi> did divers times tamper with this Deponant, to ſpeak to <hi>John Macnamarra,</hi> to the end the ſaid <hi>Mac<g ref="char:EOLhyphen"/>namarra</hi> would retract his Depoſitions concerning the Popiſh-Plot againſt the ſaid Earl of <hi>Tyrone,</hi> and that in caſe the ſaid <hi>Macnamarra</hi> would deny what he depoſed againſt the ſaid Earl of <hi>Tyrone,</hi> the ſaid <hi>Robert Power</hi> and <hi>David Fitz-Gerrald</hi> did to this Deponant promiſe the ſaid <hi>Macnamarra</hi> ſhould be provided for all the days of his Life, <hi>&amp;c.</hi>
+                        </p>
+                        <p>Much more this Deponant can ſay:</p>
+                        <p>And this Deponant further ſaith, That the ſaid <hi>Fitz-Gerrald</hi> told this Deponant, he wanted but Mr. <hi>John Macnamarra</hi> to come in and joyn with him, and he would have the ſaid Earl of <hi>Shaftsburies</hi> Head off, and <hi>Sham</hi> the whole Popiſh-Plot.</p>
+                        <closer>
+                           <signed>S. W.</signed>
+                        </closer>
+                     </div>
+                  </body>
+               </floatingText>
+            </q>
+            <pb n="12" facs="tcp:49714:9"/>
+            <p>All theſe are exact Copies of Affidavits and Teſtimonies freely made by theſe Iriſh Evidence (except only that of Mrs. <hi>Cox</hi> and Mr. <hi>Boulter,</hi> which relate materially thereunto) And not a man of thoſe Iriſh-men that made theſe Oaths, but has ſince been great with <hi>Fitz-Gerrald,</hi> and ſubmitted to his Conduct, and really done what there they ſwear, they were firſt tampered with, and prof<g ref="char:EOLhyphen"/>ferred to be ſubborn'd unto; Whence we may moſt naturally raiſe theſe concluſions.</p>
+            <p n="1">1. Either what they ſwore then, was <hi>True,</hi> or <hi>Falſe.</hi> If <hi>True,</hi> nothing is more apparent, Than that this <hi>Fitz-Gerrald</hi> who is now ſo much in favour with Grandees, and one of the preparers of Witneſſes, againſt Proteſtants, is one of the worſt of Men: And that there were long ſince ill Deſigns ſet on Foot to corrupt them. And who can doubt but they have ſwallowed the Bait, that ſees the ſudden change of their Condition from Beggary, to Bravery; whil'ſt they ſwore againſt Papiſts they had not a penny to help themſelves, but what peoples Charity gave them, to keep them from Starving; As ſoon as they began to talk of a Proteſtant Plot, they appear fine, full of money, have Lodgins, and Diet provided for them, <hi>&amp;c.</hi> And yet (obſerve the ridiculous <hi>Abſurdity</hi>) theſe Men (amongſt other Lies) muſt now ſwear, that Ptoteſtants <hi>Brib'd</hi> them to ſwear that Pa<g ref="char:EOLhyphen"/>piſts.—</p>
+            <p>On the the other ſide, If what they ſwore in theſe Affidavits be <hi>Falſe,</hi> They are virtually and voluntarily forſworn (if not legally per<g ref="char:EOLhyphen"/>jured) Conſequently nothing any of them ſhall hereafter (I mean at leaſt againſt any Proteſtant, for as to their Teſtimony againſt Papiſts nothing of ſuch a Biaſs appears) ought to be regarded.</p>
+            <p n="2">2. If ſuch Practiſes have been uſed towards theſe particular Men (the Indirect Dealings with whom are thus Providentially brought to Light) we have Juſt Reaſon to ſuſpect the like, have (behind the Cur<g ref="char:EOLhyphen"/>tain) been alſo made uſe of with others, and even <hi>ſeveral of the Engliſh Witneſſes</hi> too have no leſs receded from their former Declarations and frequently of late <hi>Herd</hi> and aſſociate with theſe <hi>Tainted</hi> Iriſh-Cattel. That Subornation is every where Vigorouſly endeavoured, and that the Conſpirators reckon it worth their while to offer mighty Tempta<g ref="char:EOLhyphen"/>tions, and give <hi>large Wages of Iniquity,</hi> too Charming for moſt Mens ſlender Honeſty to Refuſe, is evident by the late Practiſes with Cap<g ref="char:EOLhyphen"/>tain <hi>Wilkinſon.</hi> That theſe Plot-ſhamming Intrigues were at Bot<g ref="char:EOLhyphen"/>tom carried on by Papiſts, there is no doubt to be made; Not only be<g ref="char:EOLhyphen"/>cauſe it ſerves only their Intereſt. But alſo from ſeveral Inſtances of Fact.</p>
+            <p n="1">
+               <pb n="13" facs="tcp:49714:9"/> 1. Whil'ſt theſe Witneſſes (as I ſaid but now, and 'tis a Conſide<g ref="char:EOLhyphen"/>ration deſerves to be repeated) Charged Papiſts, they were poor, forlorn, miſerable, and had nothing to live on, but what they begg'd of Proteſtants (who though they had the <hi>Com<g ref="char:EOLhyphen"/>paſſion</hi> not to let them Starve, had no ſuch <hi>lewd Principles</hi> as to Bribe them to ſwear falſly againſt any; That they gave them <hi>ſomething</hi> to keep them <hi>Alive</hi> ſhews their <hi>Charity.</hi> That they gave them <hi>no more,</hi> is an Indeniable Argument of their <hi>Innocency</hi>) But no ſooner did they pretend a Proteſtant Plot, and Damn and Sink againſt <hi>Shaftsbury, Wilmore, &amp;c.</hi> But they were New-Rigg'd, and had plenty of Money and Encourage<g ref="char:EOLhyphen"/>ment. 'Tis not unknown, that four of theſe Poſt-Knights, <hi>viz. Owen Callaghan, John Arthur, Maurice Fitz-Gerrald,</hi> and <hi>Murtagh Downy</hi> were kept for a conſiderable time at a certain place in St. <hi>Gileſes,</hi> and taken care for by one <hi>M.</hi> an Agent, or Solicitor for the Duke of <hi>Norfolk</hi> (a true Friend to the Catho<g ref="char:EOLhyphen"/>lick Cauſe, till falling out amongſt themſelves, one of them declaring he would not forſwear himſelf againſt my Lord <hi>Shaftsbury,</hi> Mr- <hi>Hetherington</hi> and others; that were Liſted in <hi>Fitz-Gerralds</hi> and <hi>J. W</hi>'s Black Book, unleſs he had as much money as the reſt ('Twas not doing the Job they ſcrupled, but not having equal <hi>Snacks,</hi> divided them) The Cabal of Sham-Plotters, and Plot-ſhammers, were forced to meet to appeaſe the Difference. And for fear it ſhould take wind in Town, that good Friend Mr. <hi>M.</hi> moved, that he had a conveni<g ref="char:EOLhyphen"/>ent place in the Country and a truſty Friend that would keep them in Decorum, and be as diligent in Inſtructing them, as <hi>Caſtlemain</hi> or <hi>Dangerfield</hi> (in days of Yore) were, in Tutoring the St. <hi>Omers</hi> Lads at <hi>Gammar Cellierſes.</hi> Whereupon, they were Tranſplanted for ſome time down into the <hi>Fenns,</hi> not far from <hi>Lynn</hi> about a place called <hi>Downham,</hi> where they <hi>Conn'd</hi> their Leſſon ſo faſt, and behav'd themſelves ſo Inſo<g ref="char:EOLhyphen"/>lently, that 'twas feared they would have ſworn Treaſon againſt moſt part of the Country (Papiſts only excepted) For they had not only aſſaulted a worthy Loyal Juſtice of the Peace, but were contriving <hi>to make a Swear</hi> (as they call it) againſt ſeveral others that would not Aſſociate with them, had not their Mannagers again thought fit to remove them up to Town with the reſt that were entertained in the <hi>Suborna<g ref="char:EOLhyphen"/>tion-Office,</hi> That they might all the better Concur in their Tales, firſt to procure a Proteſtant-Plot in General, and then to proceed in particular againſt all thoſe both in City and Country that were in <hi>F.—G.</hi> and <hi>J.—W</hi>'s Fatal Liſts. Out of which, the Grand Sham-Plotter, <hi>Fitz</hi>-G. was pleaſed to ſhew a great many Names of Perſons that were to be charg<g ref="char:EOLhyphen"/>ed with High-Treaſon by him and the reſt of his Confede<g ref="char:EOLhyphen"/>rates, to a certain honeſt Man of <hi>Ireland,</hi> by whom he ſent ſeveral <hi>Broad-Picees</hi> (part of the price of his Soul) to his Wife, who was before in a Starving Condition.</p>
+            <p n="2">
+               <pb n="14" facs="tcp:49714:10"/>2. There was ſome time ſince one Mr. <hi>H<gap reason="illegible" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>rley</hi> a Proteſtant that came over, and could make a very conſiderable Diſcovery of the Popiſh-Plot in <hi>Ireland,</hi> and brought with him Letters of Re<g ref="char:EOLhyphen"/>commendation from a Noble Proteſtant Peer in that King<g ref="char:EOLhyphen"/>dom, The Right Honourable the Lord Viſcount <hi>Shannon,</hi> but <hi>Fitz</hi>-G. and the reſt of that ungodly Tribe, meeting with him, and thinking he had no more Conſcience than themſelves, uſed all means to get him to make up one of their Number, intended for the <hi>Sham-Plot-Office,</hi> But he deteſting their wick<g ref="char:EOLhyphen"/>ed Deſigns, they immediately procured a Fellow to Arreſt him in a <hi>Fobb-Action,</hi> and clap him up in the <hi>Marſhalſ<gap reason="illegible" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>a</hi> in <hi>Southwark,</hi> where (contrary to a late <hi>Statute</hi>) he was thruſt amongſt the <hi>Common Felons;</hi> and there continued four or five days without Meat or Drink, (unleſs the <hi>Pump</hi> and kindneſs of his Companions who had ſcarce ſuſtenance for themſelves, ſupply'd him) and none of his Friends knew what was become of him, till a perſon by chance meeting with Mr. <hi>Hethering<g ref="char:EOLhyphen"/>ton,</hi> told him one of the Kings Evidence was in that deſperate deplorable Condition, and that without ſpeedy Relief, he would not live till the next day. Whereupon Mr, <hi>Hethering<g ref="char:EOLhyphen"/>ton</hi> taking pity on the poor Man though altogether unknown to him, was ſo Charitable as not to ſuffer a Stranger and a Chriſtian to periſh for want; eſpecially coming on ſo good an Account as he did, to ſerve his King and Country, and the Proteſtant Religion: and ſo went immediately and paid his Fees and got him Releaſed. But the poor Mans Spirits were ſo far ſpent, that he never Recovered, but having Languiſht for ſome time, Dyed; And who at the great day of Account are to Anſwer for his Blood, is left to that Tremendous Aſſize where all wicked Contrivers and falſe Witneſſes and corrupt Judges ſhall receive an Impartial Doom.</p>
+            <p n="3">3. That theſe Sham-Office-Evidence are ſtill in their Hearts Papiſts though they pretend to be Proteſtants; appears, for that ſeve<g ref="char:EOLhyphen"/>ral of them ſince they Liſted themſelves in <hi>Fitz-Geralds</hi> Troop have been with the Condemned Prieſts and Jeſuites and Ma<g ref="char:EOLhyphen"/>dam Damnable <hi>Celiers</hi> the Midwife, or chief Lady of the Po<g ref="char:EOLhyphen"/>piſh Inchantments. And 'tis highly probable, That they gave them Abſolution (as they did to the beforementioned <hi>Arthur,</hi> (commonly called <hi>Club-Foot</hi>) for ſwearing againſt Mr. <hi>Hetherington</hi>) And upon Condition to do ſome great Ser<g ref="char:EOLhyphen"/>vice for their Intereſt, as ſwearing a Proteſtant Plot againſt all ſuch as they ſhould direct, they may again be Reconciled to the Church of <hi>Rome.</hi>
+            </p>
+            <p n="4">
+               <pb n="15" facs="tcp:49714:10"/>4, Theſe Witneſſes cannot deny, but they have often ſaid, Nay, ſome of them have given it under their hands, and declared upon Oath, That it was no ſin to ſpill Proteſtants Blood, but a Meritorious Act, and that it is uſual with the Popiſh Clergy to give Abſolution as well before the Fact committed, as after, the better to effect their Deſigns. I do for the Truth thereof Appeal to ſome of the Papers of that Popiſh Traitor Biſhop <hi>Plunket</hi> lately executed, which were delivered by Mr. <hi>Hethe<g ref="char:EOLhyphen"/>rington</hi> to the King and Council.</p>
+            <p>There is one thing more I may not omit, which is, That <hi>David Fitz-Gerrald</hi> (upon a hearing between him and Mr. <hi>William Hethe<g ref="char:EOLhyphen"/>rington,</hi> before the King and Council, did aſſert, <hi>That he could pro<g ref="char:EOLhyphen"/>cure forty Iriſhmen for forty pound, to Swear to whatever he deſired them,</hi> upon which it was Replied, <hi>That he gave an honourable Character of his Countrymen.</hi>
+            </p>
+            <p>Several other Deductions and Notes might be made on the forego<g ref="char:EOLhyphen"/>ing Depoſitions, But I would neither <hi>weary</hi> nor <hi>fore-ſtall</hi> the Reader; I conceived my ſelf bound in Duty to my King and Country and the Proteſtant Religion, to make them publique, and ſome other De<g ref="char:EOLhyphen"/>poſitions there are likewiſe, not leſs material, but too long or in ſome Reſpects not fit yet to be Printed. I think theſe ſufficient to give us an Inſight into the Intrigue, for he's but an Ill <hi>Woodman,</hi> that cannot diſcover the Nature and Size of the <hi>Beaſt,</hi> by the View of his <hi>Excrement.</hi>
+            </p>
+            <closer>
+               <signed>William Hetherington.</signed>
+            </closer>
+         </div>
+         <trailer>FINIS.</trailer>
+      </body>
+   </text>
+</TEI>
